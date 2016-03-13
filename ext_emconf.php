@@ -11,12 +11,12 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = array(
-	'title' => 'Resource BackendSettings for Language Overlay',
-	'description' => 'Enable alt and link fields for pages_language_overlay media.',
+	'title' => 'Adds missing fields for media resources in page_language_overlay',
+	'description' => 'Enable fields "alt" and "link" for media resources in Alternative Page Language properties.',
 	'category' => 'be',
 	'author' => 'SCENECS',
 	'author_email' => 'scenecs@t-online.de',
-	'state' => 'alpha',
+	'state' => 'beta',
 	'internal' => '',
 	'uploadfolder' => '0',
 	'createDirs' => '',

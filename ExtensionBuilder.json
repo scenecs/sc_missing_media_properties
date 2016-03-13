@@ -15,8 +15,8 @@
             "targetVersion": "7.6.0-7.6.99",
             "version": "1.0.0"
         },
-        "extensionKey": "scenecs_resource_settings",
-        "name": "Extend Resource BackendSettings for Language Overlay",
+        "extensionKey": "sc_missing_media_properties",
+        "name": "Adds missing fields for media resources in page_language_overlay",
         "originalExtensionKey": "",
         "originalVendorName": "",
         "persons": [],
